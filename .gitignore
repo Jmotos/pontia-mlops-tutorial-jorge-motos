@@ -1,7 +1,6 @@
 # --- ML & data artifacts ---
 mlruns/
 artifacts/
-models/
 *.log
 *.h5
 *.pkl
@@ -9,7 +8,6 @@ models/
 *.ckpt
 
 # --- Data files ---
-data/
 *.csv
 *.tsv
 *.json
